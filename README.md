@@ -85,13 +85,21 @@ python step-6.py --audio_root_path "xxx" --result_path "yyy"
 ## Citations
 
 ```bibtex
-@inproceedings{
-liu2024generative,
-    title={Generative Expressive Conversational Speech Synthesis},
-    author={Rui Liu and Yifan Hu and Yi Ren and Xiang Yin and Haizhou Li},
-    booktitle={ACM Multimedia 2024},
-    year={2024},
-    url={https://openreview.net/forum?id=eK9ShhDqwu}
+@inproceedings{liu2024generative,
+author = {Liu, Rui and Hu, Yifan and Ren, Yi and Yin, Xiang and Li, Haizhou},
+title = {Generative Expressive Conversational Speech Synthesis},
+year = {2024},
+isbn = {9798400706868},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3664647.3681697},
+doi = {10.1145/3664647.3681697},
+booktitle = {Proceedings of the 32nd ACM International Conference on Multimedia},
+pages = {4187–4196},
+numpages = {10},
+keywords = {conversational speech synthesis (css), expressiveness, gpt, user-agent conversation},
+location = {Melbourne VIC, Australia},
+series = {MM '24}
 }
 ```
 
